@@ -1,3 +1,4 @@
 # passenger-counter-app
 
-using html and javascript basics
+Scrimba Challenge:
+Using html and javascript basics to make a counter app
